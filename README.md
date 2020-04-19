@@ -9,7 +9,7 @@
 
 ## About Laravel
 
-it run here https://laravel-gcloud-kokq7u23zq-uc.a.run.app/
+it runs here https://laravel-gcloud-kokq7u23zq-uc.a.run.app/
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
